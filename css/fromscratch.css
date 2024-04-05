@@ -31,7 +31,6 @@
     text-align: center;
     top: 150px;
     left: 50%;
-    font-weight: bold;
     padding: 20px;
     transform: translate(-50%, 0);
 }
@@ -62,6 +61,7 @@
     border: 5px rgb(3, 5, 3) solid;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
+    padding-left: 30px;
 }
 
 .topbar{
